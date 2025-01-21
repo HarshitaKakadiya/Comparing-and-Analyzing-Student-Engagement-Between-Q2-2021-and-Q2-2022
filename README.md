@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tracking User Engagement with SQL, Excel, and Python</title>
 </head>
 <body>
 
